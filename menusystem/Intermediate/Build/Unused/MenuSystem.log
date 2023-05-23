@@ -1,0 +1,38 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\yunus\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for MenuSystemEditor (working set of source files changed)
+  Parsing headers for MenuSystemEditor
+    Running UnrealHeaderTool "D:\UE_proje\MenuSystem\MenuSystem.uproject" "D:\UE_proje\MenuSystem\Intermediate\Build\Win64\MenuSystemEditor\Development\MenuSystemEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\yunus\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for MenuSystemEditor in 1,7911014 seconds
+  Building MenuSystemEditor...
+  Using Visual Studio 2022 14.36.32532 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from MenuSystem unity file: MenuSystem.cpp, MenuSystemCharacter.cpp, MenuSystemGameMode.cpp
+  Distributing 7 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License not activated:
+      License is not activated. Please activate the license in the coordinator.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {7635625C-FE83-4544-9F1C-BA1DEABCEF5C}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/7] MenuSystem.init.gen.cpp (0:00.65 at +0:00)
+  [2/7] MenuSystemCharacter.gen.cpp (0:01.79 at +0:00)
+  [3/7] MenuSystemGameMode.cpp (0:01.93 at +0:00)
+  [4/7] MenuSystemCharacter.cpp (0:03.03 at +0:00)
+  [5/7] UnrealEditor-MenuSystem-0008.lib (0:00.09 at +0:03)
+     D:\UE_proje\MenuSystem\Intermediate\Build\Win64\UnrealEditor\Development\MenuSystem\UnrealEditor-MenuSystem-0008.lib kitaplığı ve D:\UE_proje\MenuSystem\Intermediate\Build\Win64\UnrealEditor\Development\MenuSystem\UnrealEditor-MenuSystem-0008.exp nesnesi oluşturuluyor
+  [6/7] UnrealEditor-MenuSystem-0008.dll (0:00.76 at +0:03)
+     D:\UE_proje\MenuSystem\Intermediate\Build\Win64\UnrealEditor\Development\MenuSystem\UnrealEditor-MenuSystem-0008.suppressed.lib kitaplığı ve D:\UE_proje\MenuSystem\Intermediate\Build\Win64\UnrealEditor\Development\MenuSystem\UnrealEditor-MenuSystem-0008.suppressed.exp nesnesi oluşturuluyor
+  [7/7] MenuSystemEditor.target (0:00.35 at +0:03)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License not activated
+  
+  Total time in XGE executor: 4,33 seconds
+  Total execution time: 7,88 seconds

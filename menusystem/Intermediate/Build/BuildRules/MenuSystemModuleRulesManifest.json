@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_proje\\MenuSystem\\menusystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"D:\\UE_proje\\MenuSystem\\menusystem\\Source\\MenuSystem.Target.cs",
+		"D:\\UE_proje\\MenuSystem\\menusystem\\Source\\MenuSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

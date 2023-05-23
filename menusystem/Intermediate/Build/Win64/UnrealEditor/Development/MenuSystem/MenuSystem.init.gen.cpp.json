@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_proje\\menusystem\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\menusystem.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_proje\\menusystem\\menusystem\\intermediate\\build\\win64\\menusystemeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_proje\\menusystem\\menusystem\\intermediate\\build\\win64\\unrealeditor\\development\\menusystem\\definitions.menusystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
